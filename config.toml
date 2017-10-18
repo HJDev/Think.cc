@@ -1,0 +1,46 @@
+baseURL = "http://www.teamleader.cn/"
+languageCode = "en-us"
+title = "锐意翱翔"
+author = "何军"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = true
+canonifyURLs = true
+defaultExtension = "html"
+defaultLayout = "post"
+disableLiveReload =           false
+# Enable GitInfo feature
+enableGitInfo =               false
+# Do not make the url/path to lowercase
+disablePathToLower =          false
+# Enable Emoji emoticons support for page content; see emoji-cheat-sheet.com
+enableEmoji =                 true
+# Enable Logging
+log =                         false
+# Log File path (if set, logging enabled automatically)
+logFile = "log"
+# maximum number of items in the RSS feed
+rssLimit =                    15
+# Pagination
+paginate =                    10
+paginatePath =                "page"
+staticDir =                   "static"
+# theme to use (located by default in /themes/THEMENAME/)
+themesDir =                   "themes"
+theme =                       "pixyll"
+#permalinks = 				  "/:title"
+uglyurls = true
+[permalinks]
+  post = "/:slug"
+
+[params]
+  author = "何军"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

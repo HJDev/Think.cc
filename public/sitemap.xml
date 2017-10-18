@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.teamleader.cn/times/%E6%97%B6%E9%97%B4%E8%A7%82%E5%BF%B5.html</loc>
+    <lastmod>2017-09-08T14:09:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</loc>
+    <lastmod>2017-09-08T14:02:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/shi-li-wen-zhang.html</loc>
+    <lastmod>2017-09-08T11:09:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/about.html</loc>
+    <lastmod>2017-09-08T10:15:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/categories.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/post.html</loc>
+    <lastmod>2017-09-08T14:02:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/tags.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/times.html</loc>
+    <lastmod>2017-09-08T14:09:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/tags/%E5%AE%9E%E4%BE%8B.html</loc>
+    <lastmod>2017-09-08T11:09:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/tags/%E6%96%B0%E5%86%85%E5%AE%B9.html</loc>
+    <lastmod>2017-09-08T11:09:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.teamleader.cn/</loc>
+    <lastmod>2017-09-08T14:09:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

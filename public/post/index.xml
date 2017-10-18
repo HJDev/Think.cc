@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 锐意翱翔</title>
+    <link>http://www.teamleader.cn/post.html</link>
+    <description>Recent content in Posts on 锐意翱翔</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Sep 2017 14:02:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.teamleader.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://www.teamleader.cn/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</link>
+      <pubDate>Fri, 08 Sep 2017 14:02:23 +0800</pubDate>
+      
+      <guid>http://www.teamleader.cn/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>示例文章</title>
+      <link>http://www.teamleader.cn/shi-li-wen-zhang.html</link>
+      <pubDate>Fri, 08 Sep 2017 11:09:57 +0800</pubDate>
+      
+      <guid>http://www.teamleader.cn/shi-li-wen-zhang.html</guid>
+      <description>示例文章，看看效果
+Fri Sep 8, 2017 100 Words Read In About 1 Min 实例 About About The Author: Steve Francia is an American Software Engineer, Speaker &amp;amp; Author based in NYC. He has the unique distinction of having held leadership roles in five of the largest open source projects.
+He currently works at Google on the leadership team of the Go language where he is responsible for the strategy and product of the Go project and it&amp;rsquo;s over 1M users.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.teamleader.cn/about.html</link>
+      <pubDate>Fri, 08 Sep 2017 10:15:30 +0800</pubDate>
+      
+      <guid>http://www.teamleader.cn/about.html</guid>
+      <description>这是一篇关于我的文章</description>
+    </item>
+    
+  </channel>
+</rss>
