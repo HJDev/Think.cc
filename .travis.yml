@@ -11,12 +11,12 @@ script:
 
 deploy:
   local_dir: public # Default static site output dir for Hugo
-  repo: HJDev/HJDev.github.io # This is the slug of the repo you want to deploy your site to
+  repo: https://git.coding.net/teamleader/blog.git # This is the slug of the repo you want to deploy your site to
   target_branch: master # GitHub pages branch to deploy to (in other cases it can be gh-pages)
   provider: pages
   skip_cleanup: true
-  github_token: $GH_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
-  email: mail@hejun.org
-  name: "HJDev"
+  github_token: $CODING_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
+  email: mail@teamleader.cn
+  name: "teamleader"
   on:
     branch: master
