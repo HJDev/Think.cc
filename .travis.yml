@@ -9,9 +9,14 @@ install:
 script:
   - hugo # This commands builds your website on travis
 
-env:
-  global:
-    - "FTP_USER=hejun"
-    - "FTP_PASSWORD=666888"
-after_success:
-    "curl --ftp-create-dirs -T /public -u $FTP_USER:$FTP_PASSWORD ftp://119.29.39.98/"
+deploy:
+  local_dir: public # Default static site output dir for Hugo
+  repo: HJDev/HJDev.github.io # This is the slug of the repo you want to deploy your site to
+  target_branch: master # GitHub pages branch to deploy to (in other cases it can be gh-pages)
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
+  email: mail@hejun.org
+  name: "HJDev"
+  on:
+    branch: master
