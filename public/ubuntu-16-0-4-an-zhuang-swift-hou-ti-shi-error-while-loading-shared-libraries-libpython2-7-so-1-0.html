@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ubuntu 16.0.4 安装 Swift 后提示 error while loading shared libraries: libpython2.7.so.1.0 | 锐意翱翔</title>
+<link rel="stylesheet" href="http://xday.cn//css/style.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/github.min.css">
+
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="http://xday.cn/"><h1 class="title is-4">锐意翱翔</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          
+          <a class="level-item" href="https://github.com/HJDev">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://weibo.com/HeJunBiz">
+            <span class="icon">
+              <i class="fa fa-weibo"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="http://xday.cn/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="subtitle is-6">September 28, 2017</h2>
+    <h1 class="title">Ubuntu 16.0.4 安装 Swift 后提示 error while loading shared libraries: libpython2.7.so.1.0</h1>
+    <div class="content">
+      
+
+<p>Ubuntu 16.0.4 安装 Swift 后提示: error while loading shared libraries: libpython2.7.so.1.0:</p>
+
+<pre><code>swift/usr/bin/lldb: error while loading shared libraries: libpython2.7.so.1.0: cannot open shared object file: No such file or directory
+</code></pre>
+
+<p>这个问题会在 Ubuntu 14.04 和 Ubuntu 16.04 上出现，是 swift 的一个依赖问题，只需要安装 <code>libpython2.7-dev</code> 就可以解决问题。代码如下</p>
+
+<pre><code>sudo apt-get install libpython2.7-dev
+</code></pre>
+
+<h3 id="done">Done !</h3>
+
+<p>Link : <a href="https://bugs.swift.org/browse/SR-2743">Incomplete install instructions for Ubuntu</a>
+原文链接: <a href="https://www.teamleader.cn/ubuntu-16-0-4-an-zhuang-swift-hou-ti-shi-error-while-loading-shared-libraries-libpython2-7-so-1-0/">Ubuntu 16.0.4 安装 Swift 后提示 error while loading shared libraries: libpython2.7.so.1.0</a></p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/languages/dockerfile.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+

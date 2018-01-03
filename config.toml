@@ -1,4 +1,4 @@
-baseURL = "http://www.teamleader.cn/"
+baseURL = "http://xday.cn/"
 languageCode = "en-us"
 title = "锐意翱翔"
 author = "何军"
@@ -28,14 +28,50 @@ paginatePath =                "page"
 staticDir =                   "static"
 # theme to use (located by default in /themes/THEMENAME/)
 themesDir =                   "themes"
-theme =                       "pixyll"
+#theme =                       "pixyll"
+theme =                       "hemingway"
+#theme =                       "hucore"
 #permalinks = 				  "/:title"
 uglyurls = true
 [permalinks]
   post = "/:slug"
+  page = "/:slug"
+
+[[menu.header]]
+  name = "Home"
+  weight = 1
+  url = "/"
+
+[[menu.header]]
+  name = "Resources"
+  weight = 2
+  url = "/resources/"
+
+[[menu.header]]
+  name = "Contact"
+  weight = 3
+  url = "/contact/"
 
 [params]
   author = "何军"
+  keywords = ["Xday", "Xday.cn", "完美的一天"]
+  description = "完美的一天，专注每一天"
+
+  [params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/HJDev"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://weibo.com/HeJunBiz"
+fa_icon = "fa-weibo"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
 
 [indexes]
   category = "categories"

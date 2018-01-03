@@ -2,29 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 锐意翱翔</title>
-    <link>http://www.teamleader.cn/tags.html</link>
+    <link>http://xday.cn/tags.html</link>
     <description>Recent content in Tags on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 28 Sep 2017 17:16:29 +0800</lastBuildDate>
     
-	<atom:link href="http://www.teamleader.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://xday.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>实例</title>
-      <link>http://www.teamleader.cn/tags/%E5%AE%9E%E4%BE%8B.html</link>
-      <pubDate>Fri, 08 Sep 2017 11:09:57 +0800</pubDate>
+      <title>Ios</title>
+      <link>http://xday.cn/tags/ios.html</link>
+      <pubDate>Thu, 28 Sep 2017 17:16:29 +0800</pubDate>
       
-      <guid>http://www.teamleader.cn/tags/%E5%AE%9E%E4%BE%8B.html</guid>
+      <guid>http://xday.cn/tags/ios.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>新内容</title>
-      <link>http://www.teamleader.cn/tags/%E6%96%B0%E5%86%85%E5%AE%B9.html</link>
-      <pubDate>Fri, 08 Sep 2017 11:09:57 +0800</pubDate>
+      <title>Xday</title>
+      <link>http://xday.cn/tags/xday.html</link>
+      <pubDate>Tue, 02 Jan 2018 10:16:20 +0800</pubDate>
       
-      <guid>http://www.teamleader.cn/tags/%E6%96%B0%E5%86%85%E5%AE%B9.html</guid>
+      <guid>http://xday.cn/tags/xday.html</guid>
       <description></description>
     </item>
     
