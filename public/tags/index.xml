@@ -6,10 +6,28 @@
     <description>Recent content in Tags on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2017 17:16:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 10:31:51 +0800</lastBuildDate>
     
 	<atom:link href="http://xday.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git</title>
+      <link>http://xday.cn/tags/git.html</link>
+      <pubDate>Wed, 03 Jan 2018 10:31:51 +0800</pubDate>
+      
+      <guid>http://xday.cn/tags/git.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>http://xday.cn/tags/html.html</link>
+      <pubDate>Wed, 03 Jan 2018 11:10:49 +0800</pubDate>
+      
+      <guid>http://xday.cn/tags/html.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ios</title>
@@ -23,7 +41,7 @@
     <item>
       <title>Xday</title>
       <link>http://xday.cn/tags/xday.html</link>
-      <pubDate>Tue, 02 Jan 2018 10:16:20 +0800</pubDate>
+      <pubDate>Wed, 03 Jan 2018 10:04:44 +0800</pubDate>
       
       <guid>http://xday.cn/tags/xday.html</guid>
       <description></description>

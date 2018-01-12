@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chrome 无法改变 button 高度 | 锐意翱翔</title>
+<link rel="stylesheet" href="http://xday.cn//css/style.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/github.min.css">
+
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="http://xday.cn/"><h1 class="title is-4">锐意翱翔</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          
+          <a class="level-item" href="https://github.com/HJDev">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://weibo.com/HeJunBiz">
+            <span class="icon">
+              <i class="fa fa-weibo"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="http://xday.cn/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="subtitle is-6">January 3, 2018</h2>
+    <h1 class="title">Chrome 无法改变 button 高度</h1>
+    <div class="content">
+      
+
+<p>今天查看<a href="http://xday.cn/convert.html">中文转拼音页面</a>时,发下转换按钮的样式变成了默认样式了，重新再 Safari 打开，显示样式正常，怀疑是不是 Chrome 最近有改变对 css 的样式支持，Google 到高手秘籍：</p>
+
+<!-- more -->
+
+<p>源代码：</p>
+
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;title&gt;&lt;/title&gt;
+    &lt;style type=&quot;text/css&quot;&gt;
+    .set{
+        height: 40px;
+        width: 90px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;input class=&quot;set&quot; type=&quot;button&quot; value=&quot;点击设置&quot;/&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<h3 id="解决方法一">解决方法一：</h3>
+
+<p>把 input 改为 button :</p>
+
+<pre><code>&lt;button class=&quot;set&quot; type=&quot;button&quot; value=&quot;点击设置&quot;/&gt;&lt;/button&gt;
+</code></pre>
+
+<h3 id="解决方法二">解决方法二:</h3>
+
+<p>在css中增加一个参数(input button 类型，只能用 class 来修改样式)；</p>
+
+<pre><code>&lt;style type=&quot;text/css&quot;&gt;
+.set{
+    -webkit-appearance:button;
+    height: 40px;
+    width: 90px;
+    }
+&lt;/style&gt;
+</code></pre>
+
+<p>参考链接：</p>
+
+<p><a href="https://segmentfault.com/q/1010000004034911">［css］button的高度无法改变</a></p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/languages/dockerfile.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+

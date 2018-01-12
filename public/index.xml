@@ -6,10 +6,52 @@
     <description>Recent content on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jan 2018 10:16:20 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 11:10:49 +0800</lastBuildDate>
     
 	<atom:link href="http://xday.cn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chrome 无法改变 button 高度</title>
+      <link>http://xday.cn/html/chrome-wu-fa-gai-bian-button-gao-du.html</link>
+      <pubDate>Wed, 03 Jan 2018 11:10:49 +0800</pubDate>
+      
+      <guid>http://xday.cn/html/chrome-wu-fa-gai-bian-button-gao-du.html</guid>
+      <description>今天查看中文转拼音页面时,发下转换按钮的样式变成了默认样式了，重新再 Safari 打开，显示样式正常，怀疑是不是 Chrome 最近有改变对 css 的样式支持，Google 到高手秘籍：
+源代码：
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;/&amp;gt; &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt; &amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt; .set{ height: 40px; width: 90px; } &amp;lt;/style&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;input class=&amp;quot;set&amp;quot; type=&amp;quot;button&amp;quot; value=&amp;quot;点击设置&amp;quot;/&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  解决方法一： 把 input 改为 button :
+&amp;lt;button class=&amp;quot;set&amp;quot; type=&amp;quot;button&amp;quot; value=&amp;quot;点击设置&amp;quot;/&amp;gt;&amp;lt;/button&amp;gt;  解决方法二: 在css中增加一个参数(input button 类型，只能用 class 来修改样式)；
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt; .set{ -webkit-appearance:button; height: 40px; width: 90px; } &amp;lt;/style&amp;gt;  参考链接：
+［css］button的高度无法改变</description>
+    </item>
+    
+    <item>
+      <title>git 同时 push 至多个仓库</title>
+      <link>http://xday.cn/git-tong-shi-push-zhi-duo-ge-cang-ku.html</link>
+      <pubDate>Wed, 03 Jan 2018 10:31:51 +0800</pubDate>
+      
+      <guid>http://xday.cn/git-tong-shi-push-zhi-duo-ge-cang-ku.html</guid>
+      <description>今天想把个人博客同时推送至 GitHub 和个人私有 Git，当使用
+git remote add origin https://github.com/HJDev/Xday.git  添加仓库时，提示错误：
+fatal: remote origin already exists.  根据错误提示，我们可以知道，origin 仓库已经存在，所以我们需要更改仓库名称,(如:origin1):
+git remote add origin1 https://github.com/HJDev/Xday.git  然后再push 到仓库。
+git push -u origin1  终极秘籍  身为攻城狮的我们，一定不会满足与使用重复的体力来解决毫无意义的体力劳动
+ 使用一条命令同时推送至多个仓库 编辑配置文件
+vim .git/config  [remote &amp;quot;all&amp;quot;] url = http://git.teamleader.cn/hejun/blog.git url = https://github.com/HJDev/Xday.git  保存。
+使用命令：
+git push all  Done !</description>
+    </item>
+    
+    <item>
+      <title>2018年1月3日</title>
+      <link>http://xday.cn/xday/20180103.html</link>
+      <pubDate>Wed, 03 Jan 2018 10:04:44 +0800</pubDate>
+      
+      <guid>http://xday.cn/xday/20180103.html</guid>
+      <description>  完美的一天，专注每一天
+ 今日任务 完成“回忆”按“天”进行归类功能 添加 iap 支付凭证本地保存功能 学习半小时 swift  今天主要学习数组和多线程  添加“Xday.cn”到 GitHub 并进行持续集成  总结：今天的任务还有一项没有完成，主要是因为没有预估好开会时间以及对 GitHub 持续集成不熟悉。对每项任务的时间预估及对任务的执行，将是我后期需要着力提高的。
+ 注：第二项任务将转移到明天执行，并优先执行  </description>
+    </item>
     
     <item>
       <title>2018年1月2日</title>

@@ -5439,3 +5439,579 @@ LOG:   2018/01/03 11:25:52 1 paginator pages created
 LOG:   2018/01/03 11:25:52 0 categories created
 LOG:   2018/01/03 11:25:52 4 tags created
 LOG:   2018/01/03 11:25:52 total in 5 ms
+WARN 2018/01/03 21:12:50 No translation bundle found for default language "en"
+WARN 2018/01/03 21:12:50 Translation func for language en not found, use default.
+WARN 2018/01/03 21:12:50 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2018/01/03 21:12:50 Started building sites ...
+WARN 2018/01/03 21:12:50 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/03 21:12:50 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/03 21:12:50 Built site for language en:
+LOG:   2018/01/03 21:12:50 4 of 4 drafts rendered
+LOG:   2018/01/03 21:12:50 0 future content
+LOG:   2018/01/03 21:12:50 0 expired content
+LOG:   2018/01/03 21:12:50 8 regular pages created
+LOG:   2018/01/03 21:12:50 22 other pages created
+LOG:   2018/01/03 21:12:50 1 non-page files copied
+LOG:   2018/01/03 21:12:50 1 paginator pages created
+LOG:   2018/01/03 21:12:50 4 tags created
+LOG:   2018/01/03 21:12:50 0 categories created
+LOG:   2018/01/03 21:12:50 total in 14 ms
+WARN 2018/01/04 10:13:58 No translation bundle found for default language "en"
+WARN 2018/01/04 10:13:58 Translation func for language en not found, use default.
+WARN 2018/01/04 10:13:58 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/01/04 10:18:52 No translation bundle found for default language "en"
+WARN 2018/01/04 10:18:52 Translation func for language en not found, use default.
+WARN 2018/01/04 10:18:52 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2018/01/04 10:18:52 Started building sites ...
+WARN 2018/01/04 10:18:52 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/04 10:18:52 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/04 10:18:52 Built site for language en:
+LOG:   2018/01/04 10:18:52 5 of 5 drafts rendered
+LOG:   2018/01/04 10:18:52 0 future content
+LOG:   2018/01/04 10:18:52 0 expired content
+LOG:   2018/01/04 10:18:52 9 regular pages created
+LOG:   2018/01/04 10:18:52 22 other pages created
+LOG:   2018/01/04 10:18:52 1 non-page files copied
+LOG:   2018/01/04 10:18:52 1 paginator pages created
+LOG:   2018/01/04 10:18:52 0 categories created
+LOG:   2018/01/04 10:18:52 4 tags created
+LOG:   2018/01/04 10:18:52 total in 13 ms
+WARN 2018/01/04 10:18:52 Skip i18nDir: lstat /Users/hejun/Documents/blog/i18n: no such file or directory
+WARN 2018/01/04 10:18:52 Skip i18nDir: lstat /Users/hejun/Documents/blog/i18n: no such file or directory
+LOG:   2018/01/04 10:19:14 
+Change detected, rebuilding site
+LOG:   2018/01/04 10:19:14 2018-01-04 10:19 +0800
+WARN 2018/01/04 10:19:14 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/04 10:19:14 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/04 10:19:14 Built site for language en:
+LOG:   2018/01/04 10:19:14 4 of 4 drafts rendered
+LOG:   2018/01/04 10:19:14 0 future content
+LOG:   2018/01/04 10:19:14 0 expired content
+LOG:   2018/01/04 10:19:14 9 regular pages created
+LOG:   2018/01/04 10:19:14 22 other pages created
+LOG:   2018/01/04 10:19:14 1 non-page files copied
+LOG:   2018/01/04 10:19:14 1 paginator pages created
+LOG:   2018/01/04 10:19:14 0 categories created
+LOG:   2018/01/04 10:19:14 4 tags created
+LOG:   2018/01/04 10:19:14 total in 6 ms
+LOG:   2018/01/04 10:20:26 Config file changed: /Users/hejun/Documents/blog/config.toml
+LOG:   2018/01/04 10:20:26 Started building sites ...
+WARN 2018/01/04 10:20:26 No translation bundle found for default language "en"
+LOG:   2018/01/04 10:20:26 Config file changed: /Users/hejun/Documents/blog/config.toml
+LOG:   2018/01/04 10:20:26 Started building sites ...
+WARN 2018/01/04 10:20:26 No translation bundle found for default language "en"
+LOG:   2018/01/04 10:20:26 Config file changed: /Users/hejun/Documents/blog/config.toml
+LOG:   2018/01/04 10:20:26 Started building sites ...
+WARN 2018/01/04 10:20:26 No translation bundle found for default language "en"
+LOG:   2018/01/04 10:20:27 Config file changed: /Users/hejun/Documents/blog/config.toml
+LOG:   2018/01/04 10:20:27 Started building sites ...
+WARN 2018/01/04 10:20:27 No translation bundle found for default language "en"
+LOG:   2018/01/04 11:57:16 
+Change detected, rebuilding site
+LOG:   2018/01/04 11:57:16 2018-01-04 11:57 +0800
+WARN 2018/01/04 11:57:16 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/04 11:57:16 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/04 15:45:16 
+Change detected, rebuilding site
+LOG:   2018/01/04 15:45:16 2018-01-04 15:45 +0800
+WARN 2018/01/04 15:45:16 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/04 15:45:16 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/04 15:45:17 
+Change detected, rebuilding site
+LOG:   2018/01/04 15:45:17 2018-01-04 15:45 +0800
+WARN 2018/01/04 15:45:17 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/04 15:45:17 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/04 15:45:25 
+Change detected, rebuilding site
+LOG:   2018/01/04 15:45:25 2018-01-04 15:45 +0800
+WARN 2018/01/04 15:45:25 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/04 15:45:25 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/05 10:12:03 
+Change detected, rebuilding site
+LOG:   2018/01/05 10:12:03 2018-01-05 10:12 +0800
+WARN 2018/01/05 10:12:03 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/05 10:12:03 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/05 10:15:31 
+Change detected, rebuilding site
+LOG:   2018/01/05 10:15:31 2018-01-05 10:15 +0800
+WARN 2018/01/05 10:15:31 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/05 10:15:31 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/05 10:19:04 No translation bundle found for default language "en"
+WARN 2018/01/05 10:19:04 Translation func for language en not found, use default.
+WARN 2018/01/05 10:19:04 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/01/11 10:39:07 No translation bundle found for default language "en"
+WARN 2018/01/11 10:39:07 Translation func for language en not found, use default.
+WARN 2018/01/11 10:39:07 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/01/11 11:52:27 No translation bundle found for default language "en"
+WARN 2018/01/11 11:52:27 Translation func for language en not found, use default.
+WARN 2018/01/11 11:52:27 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2018/01/11 11:52:27 Started building sites ...
+WARN 2018/01/11 11:52:28 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 11:52:28 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 11:52:28 Built site for language en:
+LOG:   2018/01/11 11:52:28 6 of 6 drafts rendered
+LOG:   2018/01/11 11:52:28 0 future content
+LOG:   2018/01/11 11:52:28 0 expired content
+LOG:   2018/01/11 11:52:28 11 regular pages created
+LOG:   2018/01/11 11:52:28 22 other pages created
+LOG:   2018/01/11 11:52:28 1 non-page files copied
+LOG:   2018/01/11 11:52:28 3 paginator pages created
+LOG:   2018/01/11 11:52:28 0 categories created
+LOG:   2018/01/11 11:52:28 4 tags created
+LOG:   2018/01/11 11:52:28 total in 23 ms
+WARN 2018/01/11 11:52:28 Skip i18nDir: lstat /Users/hejun/Documents/blog/i18n: no such file or directory
+WARN 2018/01/11 11:52:28 Skip i18nDir: lstat /Users/hejun/Documents/blog/i18n: no such file or directory
+LOG:   2018/01/11 11:52:57 
+Change detected, rebuilding site
+LOG:   2018/01/11 11:52:57 2018-01-11 11:52 +0800
+WARN 2018/01/11 11:52:57 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 11:52:57 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 11:52:57 Built site for language en:
+LOG:   2018/01/11 11:52:57 5 of 5 drafts rendered
+LOG:   2018/01/11 11:52:57 0 future content
+LOG:   2018/01/11 11:52:57 0 expired content
+LOG:   2018/01/11 11:52:57 11 regular pages created
+LOG:   2018/01/11 11:52:57 22 other pages created
+LOG:   2018/01/11 11:52:57 1 non-page files copied
+LOG:   2018/01/11 11:52:57 3 paginator pages created
+LOG:   2018/01/11 11:52:57 0 categories created
+LOG:   2018/01/11 11:52:57 4 tags created
+LOG:   2018/01/11 11:52:57 total in 7 ms
+LOG:   2018/01/11 11:53:01 
+Change detected, rebuilding site
+LOG:   2018/01/11 11:53:01 2018-01-11 11:53 +0800
+WARN 2018/01/11 11:53:01 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 11:53:01 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 11:53:01 Built site for language en:
+LOG:   2018/01/11 11:53:01 5 of 5 drafts rendered
+LOG:   2018/01/11 11:53:01 0 future content
+LOG:   2018/01/11 11:53:01 0 expired content
+LOG:   2018/01/11 11:53:01 11 regular pages created
+LOG:   2018/01/11 11:53:01 22 other pages created
+LOG:   2018/01/11 11:53:01 1 non-page files copied
+LOG:   2018/01/11 11:53:01 3 paginator pages created
+LOG:   2018/01/11 11:53:01 0 categories created
+LOG:   2018/01/11 11:53:01 4 tags created
+LOG:   2018/01/11 11:53:01 total in 7 ms
+LOG:   2018/01/11 11:54:12 
+Change detected, rebuilding site
+LOG:   2018/01/11 11:54:12 2018-01-11 11:54 +0800
+WARN 2018/01/11 11:54:12 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 11:54:12 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 11:54:12 Built site for language en:
+LOG:   2018/01/11 11:54:12 4 of 4 drafts rendered
+LOG:   2018/01/11 11:54:12 0 future content
+LOG:   2018/01/11 11:54:12 0 expired content
+LOG:   2018/01/11 11:54:12 11 regular pages created
+LOG:   2018/01/11 11:54:12 22 other pages created
+LOG:   2018/01/11 11:54:12 1 non-page files copied
+LOG:   2018/01/11 11:54:12 3 paginator pages created
+LOG:   2018/01/11 11:54:12 4 tags created
+LOG:   2018/01/11 11:54:12 0 categories created
+LOG:   2018/01/11 11:54:12 total in 6 ms
+LOG:   2018/01/11 11:57:44 
+Change detected, rebuilding site
+LOG:   2018/01/11 11:57:44 2018-01-11 11:57 +0800
+WARN 2018/01/11 11:57:44 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 11:57:44 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 11:57:44 Built site for language en:
+LOG:   2018/01/11 11:57:44 4 of 4 drafts rendered
+LOG:   2018/01/11 11:57:44 0 future content
+LOG:   2018/01/11 11:57:44 0 expired content
+LOG:   2018/01/11 11:57:44 11 regular pages created
+LOG:   2018/01/11 11:57:44 22 other pages created
+LOG:   2018/01/11 11:57:44 1 non-page files copied
+LOG:   2018/01/11 11:57:44 3 paginator pages created
+LOG:   2018/01/11 11:57:44 4 tags created
+LOG:   2018/01/11 11:57:44 0 categories created
+LOG:   2018/01/11 11:57:44 total in 5 ms
+LOG:   2018/01/11 11:57:45 
+Change detected, rebuilding site
+LOG:   2018/01/11 11:57:45 2018-01-11 11:57 +0800
+WARN 2018/01/11 11:57:45 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 11:57:45 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 11:57:45 Built site for language en:
+LOG:   2018/01/11 11:57:45 4 of 4 drafts rendered
+LOG:   2018/01/11 11:57:45 0 future content
+LOG:   2018/01/11 11:57:45 0 expired content
+LOG:   2018/01/11 11:57:45 11 regular pages created
+LOG:   2018/01/11 11:57:45 22 other pages created
+LOG:   2018/01/11 11:57:45 1 non-page files copied
+LOG:   2018/01/11 11:57:45 3 paginator pages created
+LOG:   2018/01/11 11:57:45 4 tags created
+LOG:   2018/01/11 11:57:45 0 categories created
+LOG:   2018/01/11 11:57:45 total in 5 ms
+LOG:   2018/01/11 18:22:51 
+Change detected, rebuilding site
+LOG:   2018/01/11 18:22:51 2018-01-11 18:22 +0800
+WARN 2018/01/11 18:22:51 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 18:22:51 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 18:22:51 Built site for language en:
+LOG:   2018/01/11 18:22:51 4 of 4 drafts rendered
+LOG:   2018/01/11 18:22:51 0 future content
+LOG:   2018/01/11 18:22:51 0 expired content
+LOG:   2018/01/11 18:22:51 11 regular pages created
+LOG:   2018/01/11 18:22:51 22 other pages created
+LOG:   2018/01/11 18:22:51 1 non-page files copied
+LOG:   2018/01/11 18:22:51 3 paginator pages created
+LOG:   2018/01/11 18:22:51 4 tags created
+LOG:   2018/01/11 18:22:51 0 categories created
+LOG:   2018/01/11 18:22:51 total in 8 ms
+LOG:   2018/01/11 18:22:52 
+Change detected, rebuilding site
+LOG:   2018/01/11 18:22:52 2018-01-11 18:22 +0800
+WARN 2018/01/11 18:22:52 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 18:22:52 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 18:22:52 Built site for language en:
+LOG:   2018/01/11 18:22:52 4 of 4 drafts rendered
+LOG:   2018/01/11 18:22:52 0 future content
+LOG:   2018/01/11 18:22:52 0 expired content
+LOG:   2018/01/11 18:22:52 11 regular pages created
+LOG:   2018/01/11 18:22:52 22 other pages created
+LOG:   2018/01/11 18:22:52 1 non-page files copied
+LOG:   2018/01/11 18:22:52 3 paginator pages created
+LOG:   2018/01/11 18:22:52 4 tags created
+LOG:   2018/01/11 18:22:52 0 categories created
+LOG:   2018/01/11 18:22:52 total in 6 ms
+LOG:   2018/01/11 18:23:00 
+Change detected, rebuilding site
+LOG:   2018/01/11 18:23:00 2018-01-11 18:23 +0800
+WARN 2018/01/11 18:23:00 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 18:23:00 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 18:23:00 Built site for language en:
+LOG:   2018/01/11 18:23:00 4 of 4 drafts rendered
+LOG:   2018/01/11 18:23:00 0 future content
+LOG:   2018/01/11 18:23:00 0 expired content
+LOG:   2018/01/11 18:23:00 11 regular pages created
+LOG:   2018/01/11 18:23:00 22 other pages created
+LOG:   2018/01/11 18:23:00 1 non-page files copied
+LOG:   2018/01/11 18:23:00 3 paginator pages created
+LOG:   2018/01/11 18:23:00 4 tags created
+LOG:   2018/01/11 18:23:00 0 categories created
+LOG:   2018/01/11 18:23:00 total in 6 ms
+LOG:   2018/01/11 18:23:01 
+Change detected, rebuilding site
+LOG:   2018/01/11 18:23:01 2018-01-11 18:23 +0800
+WARN 2018/01/11 18:23:01 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 18:23:01 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 18:23:01 Built site for language en:
+LOG:   2018/01/11 18:23:01 4 of 4 drafts rendered
+LOG:   2018/01/11 18:23:01 0 future content
+LOG:   2018/01/11 18:23:01 0 expired content
+LOG:   2018/01/11 18:23:01 11 regular pages created
+LOG:   2018/01/11 18:23:01 22 other pages created
+LOG:   2018/01/11 18:23:01 1 non-page files copied
+LOG:   2018/01/11 18:23:01 3 paginator pages created
+LOG:   2018/01/11 18:23:01 4 tags created
+LOG:   2018/01/11 18:23:01 0 categories created
+LOG:   2018/01/11 18:23:01 total in 7 ms
+LOG:   2018/01/11 18:23:02 
+Change detected, rebuilding site
+LOG:   2018/01/11 18:23:02 2018-01-11 18:23 +0800
+WARN 2018/01/11 18:23:02 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 18:23:02 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 18:23:02 Built site for language en:
+LOG:   2018/01/11 18:23:02 4 of 4 drafts rendered
+LOG:   2018/01/11 18:23:02 0 future content
+LOG:   2018/01/11 18:23:02 0 expired content
+LOG:   2018/01/11 18:23:02 11 regular pages created
+LOG:   2018/01/11 18:23:02 22 other pages created
+LOG:   2018/01/11 18:23:02 1 non-page files copied
+LOG:   2018/01/11 18:23:02 3 paginator pages created
+LOG:   2018/01/11 18:23:02 4 tags created
+LOG:   2018/01/11 18:23:02 0 categories created
+LOG:   2018/01/11 18:23:02 total in 5 ms
+LOG:   2018/01/11 18:23:03 
+Change detected, rebuilding site
+LOG:   2018/01/11 18:23:03 2018-01-11 18:23 +0800
+WARN 2018/01/11 18:23:03 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 18:23:03 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 18:23:03 Built site for language en:
+LOG:   2018/01/11 18:23:03 4 of 4 drafts rendered
+LOG:   2018/01/11 18:23:03 0 future content
+LOG:   2018/01/11 18:23:03 0 expired content
+LOG:   2018/01/11 18:23:03 11 regular pages created
+LOG:   2018/01/11 18:23:03 22 other pages created
+LOG:   2018/01/11 18:23:03 1 non-page files copied
+LOG:   2018/01/11 18:23:03 3 paginator pages created
+LOG:   2018/01/11 18:23:03 4 tags created
+LOG:   2018/01/11 18:23:03 0 categories created
+LOG:   2018/01/11 18:23:03 total in 6 ms
+LOG:   2018/01/11 18:37:01 
+Change detected, rebuilding site
+LOG:   2018/01/11 18:37:01 2018-01-11 18:37 +0800
+WARN 2018/01/11 18:37:01 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 18:37:01 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 18:37:01 Built site for language en:
+LOG:   2018/01/11 18:37:01 4 of 4 drafts rendered
+LOG:   2018/01/11 18:37:01 0 future content
+LOG:   2018/01/11 18:37:01 0 expired content
+LOG:   2018/01/11 18:37:01 11 regular pages created
+LOG:   2018/01/11 18:37:01 22 other pages created
+LOG:   2018/01/11 18:37:01 1 non-page files copied
+LOG:   2018/01/11 18:37:01 3 paginator pages created
+LOG:   2018/01/11 18:37:01 4 tags created
+LOG:   2018/01/11 18:37:01 0 categories created
+LOG:   2018/01/11 18:37:01 total in 5 ms
+LOG:   2018/01/11 18:37:02 
+Change detected, rebuilding site
+LOG:   2018/01/11 18:37:02 2018-01-11 18:37 +0800
+WARN 2018/01/11 18:37:02 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/11 18:37:02 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/11 18:37:02 Built site for language en:
+LOG:   2018/01/11 18:37:02 4 of 4 drafts rendered
+LOG:   2018/01/11 18:37:02 0 future content
+LOG:   2018/01/11 18:37:02 0 expired content
+LOG:   2018/01/11 18:37:02 11 regular pages created
+LOG:   2018/01/11 18:37:02 22 other pages created
+LOG:   2018/01/11 18:37:02 1 non-page files copied
+LOG:   2018/01/11 18:37:02 3 paginator pages created
+LOG:   2018/01/11 18:37:02 4 tags created
+LOG:   2018/01/11 18:37:02 0 categories created
+LOG:   2018/01/11 18:37:02 total in 7 ms
+WARN 2018/01/12 13:48:43 No translation bundle found for default language "en"
+WARN 2018/01/12 13:48:43 Translation func for language en not found, use default.
+WARN 2018/01/12 13:48:43 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/01/12 13:48:48 No translation bundle found for default language "en"
+WARN 2018/01/12 13:48:48 Translation func for language en not found, use default.
+WARN 2018/01/12 13:48:48 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2018/01/12 13:48:48 Started building sites ...
+WARN 2018/01/12 13:48:48 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:48:48 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:48:48 Built site for language en:
+LOG:   2018/01/12 13:48:48 5 of 5 drafts rendered
+LOG:   2018/01/12 13:48:48 0 future content
+LOG:   2018/01/12 13:48:48 0 expired content
+LOG:   2018/01/12 13:48:48 12 regular pages created
+LOG:   2018/01/12 13:48:48 22 other pages created
+LOG:   2018/01/12 13:48:48 1 non-page files copied
+LOG:   2018/01/12 13:48:48 3 paginator pages created
+LOG:   2018/01/12 13:48:48 0 categories created
+LOG:   2018/01/12 13:48:48 4 tags created
+LOG:   2018/01/12 13:48:48 total in 12 ms
+WARN 2018/01/12 13:48:48 Skip i18nDir: lstat /Users/hejun/Documents/blog/i18n: no such file or directory
+WARN 2018/01/12 13:48:48 Skip i18nDir: lstat /Users/hejun/Documents/blog/i18n: no such file or directory
+LOG:   2018/01/12 13:49:10 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:49:10 2018-01-12 13:49 +0800
+WARN 2018/01/12 13:49:10 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:49:10 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:49:10 Built site for language en:
+LOG:   2018/01/12 13:49:10 5 of 5 drafts rendered
+LOG:   2018/01/12 13:49:10 0 future content
+LOG:   2018/01/12 13:49:10 0 expired content
+LOG:   2018/01/12 13:49:10 12 regular pages created
+LOG:   2018/01/12 13:49:10 22 other pages created
+LOG:   2018/01/12 13:49:10 1 non-page files copied
+LOG:   2018/01/12 13:49:10 3 paginator pages created
+LOG:   2018/01/12 13:49:10 0 categories created
+LOG:   2018/01/12 13:49:10 4 tags created
+LOG:   2018/01/12 13:49:10 total in 7 ms
+LOG:   2018/01/12 13:49:11 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:49:11 2018-01-12 13:49 +0800
+WARN 2018/01/12 13:49:11 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:49:11 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:49:11 Built site for language en:
+LOG:   2018/01/12 13:49:11 5 of 5 drafts rendered
+LOG:   2018/01/12 13:49:11 0 future content
+LOG:   2018/01/12 13:49:11 0 expired content
+LOG:   2018/01/12 13:49:11 12 regular pages created
+LOG:   2018/01/12 13:49:11 22 other pages created
+LOG:   2018/01/12 13:49:11 1 non-page files copied
+LOG:   2018/01/12 13:49:11 3 paginator pages created
+LOG:   2018/01/12 13:49:11 4 tags created
+LOG:   2018/01/12 13:49:11 0 categories created
+LOG:   2018/01/12 13:49:11 total in 7 ms
+LOG:   2018/01/12 13:51:04 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:51:04 2018-01-12 13:51 +0800
+WARN 2018/01/12 13:51:04 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:51:04 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:51:04 Built site for language en:
+LOG:   2018/01/12 13:51:04 5 of 5 drafts rendered
+LOG:   2018/01/12 13:51:04 0 future content
+LOG:   2018/01/12 13:51:04 0 expired content
+LOG:   2018/01/12 13:51:04 12 regular pages created
+LOG:   2018/01/12 13:51:04 22 other pages created
+LOG:   2018/01/12 13:51:04 1 non-page files copied
+LOG:   2018/01/12 13:51:04 3 paginator pages created
+LOG:   2018/01/12 13:51:04 4 tags created
+LOG:   2018/01/12 13:51:04 0 categories created
+LOG:   2018/01/12 13:51:04 total in 5 ms
+LOG:   2018/01/12 13:51:34 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:51:34 2018-01-12 13:51 +0800
+WARN 2018/01/12 13:51:34 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:51:34 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:51:34 Built site for language en:
+LOG:   2018/01/12 13:51:34 5 of 5 drafts rendered
+LOG:   2018/01/12 13:51:34 0 future content
+LOG:   2018/01/12 13:51:34 0 expired content
+LOG:   2018/01/12 13:51:34 12 regular pages created
+LOG:   2018/01/12 13:51:34 22 other pages created
+LOG:   2018/01/12 13:51:34 1 non-page files copied
+LOG:   2018/01/12 13:51:34 3 paginator pages created
+LOG:   2018/01/12 13:51:34 0 categories created
+LOG:   2018/01/12 13:51:34 4 tags created
+LOG:   2018/01/12 13:51:34 total in 5 ms
+LOG:   2018/01/12 13:51:35 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:51:35 2018-01-12 13:51 +0800
+WARN 2018/01/12 13:51:35 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:51:35 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:51:35 Built site for language en:
+LOG:   2018/01/12 13:51:35 5 of 5 drafts rendered
+LOG:   2018/01/12 13:51:35 0 future content
+LOG:   2018/01/12 13:51:35 0 expired content
+LOG:   2018/01/12 13:51:35 12 regular pages created
+LOG:   2018/01/12 13:51:35 22 other pages created
+LOG:   2018/01/12 13:51:35 1 non-page files copied
+LOG:   2018/01/12 13:51:35 3 paginator pages created
+LOG:   2018/01/12 13:51:35 0 categories created
+LOG:   2018/01/12 13:51:35 4 tags created
+LOG:   2018/01/12 13:51:35 total in 6 ms
+LOG:   2018/01/12 13:51:58 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:51:58 2018-01-12 13:51 +0800
+WARN 2018/01/12 13:51:58 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:51:58 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:51:58 Built site for language en:
+LOG:   2018/01/12 13:51:58 5 of 5 drafts rendered
+LOG:   2018/01/12 13:51:58 0 future content
+LOG:   2018/01/12 13:51:58 0 expired content
+LOG:   2018/01/12 13:51:58 12 regular pages created
+LOG:   2018/01/12 13:51:58 22 other pages created
+LOG:   2018/01/12 13:51:58 1 non-page files copied
+LOG:   2018/01/12 13:51:58 3 paginator pages created
+LOG:   2018/01/12 13:51:58 0 categories created
+LOG:   2018/01/12 13:51:58 4 tags created
+LOG:   2018/01/12 13:51:58 total in 7 ms
+LOG:   2018/01/12 13:54:19 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:54:19 2018-01-12 13:54 +0800
+WARN 2018/01/12 13:54:19 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:54:19 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:54:19 Built site for language en:
+LOG:   2018/01/12 13:54:19 5 of 5 drafts rendered
+LOG:   2018/01/12 13:54:19 0 future content
+LOG:   2018/01/12 13:54:19 0 expired content
+LOG:   2018/01/12 13:54:19 12 regular pages created
+LOG:   2018/01/12 13:54:19 22 other pages created
+LOG:   2018/01/12 13:54:19 1 non-page files copied
+LOG:   2018/01/12 13:54:19 3 paginator pages created
+LOG:   2018/01/12 13:54:19 0 categories created
+LOG:   2018/01/12 13:54:19 4 tags created
+LOG:   2018/01/12 13:54:19 total in 5 ms
+LOG:   2018/01/12 13:54:48 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:54:48 2018-01-12 13:54 +0800
+WARN 2018/01/12 13:54:48 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:54:48 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:54:48 Built site for language en:
+LOG:   2018/01/12 13:54:48 5 of 5 drafts rendered
+LOG:   2018/01/12 13:54:48 0 future content
+LOG:   2018/01/12 13:54:48 0 expired content
+LOG:   2018/01/12 13:54:48 12 regular pages created
+LOG:   2018/01/12 13:54:48 22 other pages created
+LOG:   2018/01/12 13:54:48 1 non-page files copied
+LOG:   2018/01/12 13:54:48 3 paginator pages created
+LOG:   2018/01/12 13:54:48 4 tags created
+LOG:   2018/01/12 13:54:48 0 categories created
+LOG:   2018/01/12 13:54:48 total in 5 ms
+LOG:   2018/01/12 13:55:55 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:55:55 2018-01-12 13:55 +0800
+WARN 2018/01/12 13:55:55 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:55:55 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:55:55 Built site for language en:
+LOG:   2018/01/12 13:55:55 5 of 5 drafts rendered
+LOG:   2018/01/12 13:55:55 0 future content
+LOG:   2018/01/12 13:55:55 0 expired content
+LOG:   2018/01/12 13:55:55 12 regular pages created
+LOG:   2018/01/12 13:55:55 22 other pages created
+LOG:   2018/01/12 13:55:55 1 non-page files copied
+LOG:   2018/01/12 13:55:55 3 paginator pages created
+LOG:   2018/01/12 13:55:55 0 categories created
+LOG:   2018/01/12 13:55:55 4 tags created
+LOG:   2018/01/12 13:55:55 total in 7 ms
+LOG:   2018/01/12 13:56:34 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:56:34 2018-01-12 13:56 +0800
+WARN 2018/01/12 13:56:34 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:56:34 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:56:34 Built site for language en:
+LOG:   2018/01/12 13:56:34 5 of 5 drafts rendered
+LOG:   2018/01/12 13:56:34 0 future content
+LOG:   2018/01/12 13:56:34 0 expired content
+LOG:   2018/01/12 13:56:34 12 regular pages created
+LOG:   2018/01/12 13:56:34 22 other pages created
+LOG:   2018/01/12 13:56:34 1 non-page files copied
+LOG:   2018/01/12 13:56:34 3 paginator pages created
+LOG:   2018/01/12 13:56:34 4 tags created
+LOG:   2018/01/12 13:56:34 0 categories created
+LOG:   2018/01/12 13:56:34 total in 7 ms
+LOG:   2018/01/12 13:56:58 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:56:58 2018-01-12 13:56 +0800
+WARN 2018/01/12 13:56:58 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:56:58 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:56:58 Built site for language en:
+LOG:   2018/01/12 13:56:58 5 of 5 drafts rendered
+LOG:   2018/01/12 13:56:58 0 future content
+LOG:   2018/01/12 13:56:58 0 expired content
+LOG:   2018/01/12 13:56:58 12 regular pages created
+LOG:   2018/01/12 13:56:58 22 other pages created
+LOG:   2018/01/12 13:56:58 1 non-page files copied
+LOG:   2018/01/12 13:56:58 3 paginator pages created
+LOG:   2018/01/12 13:56:58 4 tags created
+LOG:   2018/01/12 13:56:58 0 categories created
+LOG:   2018/01/12 13:56:58 total in 7 ms
+LOG:   2018/01/12 13:56:59 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:56:59 2018-01-12 13:56 +0800
+WARN 2018/01/12 13:56:59 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:56:59 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:56:59 Built site for language en:
+LOG:   2018/01/12 13:56:59 5 of 5 drafts rendered
+LOG:   2018/01/12 13:56:59 0 future content
+LOG:   2018/01/12 13:56:59 0 expired content
+LOG:   2018/01/12 13:56:59 12 regular pages created
+LOG:   2018/01/12 13:56:59 22 other pages created
+LOG:   2018/01/12 13:56:59 1 non-page files copied
+LOG:   2018/01/12 13:56:59 3 paginator pages created
+LOG:   2018/01/12 13:56:59 0 categories created
+LOG:   2018/01/12 13:56:59 4 tags created
+LOG:   2018/01/12 13:56:59 total in 5 ms
+LOG:   2018/01/12 13:57:00 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:57:00 2018-01-12 13:57 +0800
+WARN 2018/01/12 13:57:00 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:57:00 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:57:00 Built site for language en:
+LOG:   2018/01/12 13:57:00 5 of 5 drafts rendered
+LOG:   2018/01/12 13:57:00 0 future content
+LOG:   2018/01/12 13:57:00 0 expired content
+LOG:   2018/01/12 13:57:00 12 regular pages created
+LOG:   2018/01/12 13:57:00 22 other pages created
+LOG:   2018/01/12 13:57:00 1 non-page files copied
+LOG:   2018/01/12 13:57:00 3 paginator pages created
+LOG:   2018/01/12 13:57:00 0 categories created
+LOG:   2018/01/12 13:57:00 4 tags created
+LOG:   2018/01/12 13:57:00 total in 6 ms
+LOG:   2018/01/12 13:57:01 
+Change detected, rebuilding site
+LOG:   2018/01/12 13:57:01 2018-01-12 13:57 +0800
+WARN 2018/01/12 13:57:01 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2018/01/12 13:57:01 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2018/01/12 13:57:01 Built site for language en:
+LOG:   2018/01/12 13:57:01 5 of 5 drafts rendered
+LOG:   2018/01/12 13:57:01 0 future content
+LOG:   2018/01/12 13:57:01 0 expired content
+LOG:   2018/01/12 13:57:01 12 regular pages created
+LOG:   2018/01/12 13:57:01 22 other pages created
+LOG:   2018/01/12 13:57:01 1 non-page files copied
+LOG:   2018/01/12 13:57:01 3 paginator pages created
+LOG:   2018/01/12 13:57:01 0 categories created
+LOG:   2018/01/12 13:57:01 4 tags created
+LOG:   2018/01/12 13:57:01 total in 7 ms

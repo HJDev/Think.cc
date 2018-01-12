@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>git 同时 push 至多个仓库 | 锐意翱翔</title>
+<link rel="stylesheet" href="http://xday.cn//css/style.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/github.min.css">
+
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="http://xday.cn/"><h1 class="title is-4">锐意翱翔</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          
+          <a class="level-item" href="https://github.com/HJDev">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://weibo.com/HeJunBiz">
+            <span class="icon">
+              <i class="fa fa-weibo"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="http://xday.cn/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="subtitle is-6">January 3, 2018</h2>
+    <h1 class="title">git 同时 push 至多个仓库</h1>
+    <div class="content">
+      
+
+<p>今天想把个人博客同时推送至 GitHub 和个人私有 Git，当使用</p>
+
+<pre><code>git remote add origin https://github.com/HJDev/Xday.git
+</code></pre>
+
+<p>添加仓库时，提示错误：</p>
+
+<pre><code>fatal: remote origin already exists.
+</code></pre>
+
+<p>根据错误提示，我们可以知道，origin 仓库已经存在，所以我们需要更改仓库名称,(如:origin1):</p>
+
+<pre><code>git remote add origin1 https://github.com/HJDev/Xday.git
+</code></pre>
+
+<p>然后再push 到仓库。</p>
+
+<pre><code>git push -u origin1 
+</code></pre>
+
+<!-- more -->
+
+<h3 id="终极秘籍">终极秘籍</h3>
+
+<blockquote>
+<p>身为攻城狮的我们，一定不会满足与使用重复的体力来解决毫无意义的体力劳动</p>
+</blockquote>
+
+<h4 id="使用一条命令同时推送至多个仓库">使用一条命令同时推送至多个仓库</h4>
+
+<p>编辑配置文件</p>
+
+<pre><code>vim .git/config 
+</code></pre>
+
+<pre><code>[remote &quot;all&quot;]
+        url = http://git.teamleader.cn/hejun/blog.git
+        url = https://github.com/HJDev/Xday.git
+</code></pre>
+
+<p>保存。</p>
+
+<p>使用命令：</p>
+
+<pre><code>git push all
+</code></pre>
+
+<p>Done !</p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/languages/dockerfile.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+

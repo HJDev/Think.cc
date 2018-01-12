@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://xday.cn/html/chrome-wu-fa-gai-bian-button-gao-du.html</loc>
+    <lastmod>2018-01-03T11:10:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xday.cn/git-tong-shi-push-zhi-duo-ge-cang-ku.html</loc>
+    <lastmod>2018-01-03T10:31:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xday.cn/xday/20180103.html</loc>
+    <lastmod>2018-01-03T10:04:44+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://xday.cn/xday/20180102.html</loc>
     <lastmod>2018-01-02T10:16:20+08:00</lastmod>
   </url>
@@ -33,6 +48,24 @@
   </url>
   
   <url>
+    <loc>http://xday.cn/tags/git.html</loc>
+    <lastmod>2018-01-03T10:31:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xday.cn/tags/html.html</loc>
+    <lastmod>2018-01-03T11:10:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xday.cn/html.html</loc>
+    <lastmod>2018-01-03T11:10:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://xday.cn/tags/ios.html</loc>
     <lastmod>2017-09-28T17:16:29+08:00</lastmod>
     <priority>0</priority>
@@ -40,13 +73,13 @@
   
   <url>
     <loc>http://xday.cn/post.html</loc>
-    <lastmod>2017-09-28T17:16:29+08:00</lastmod>
+    <lastmod>2018-01-03T10:31:51+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://xday.cn/tags.html</loc>
-    <lastmod>2017-09-28T17:16:29+08:00</lastmod>
+    <lastmod>2018-01-03T10:31:51+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,19 +91,19 @@
   
   <url>
     <loc>http://xday.cn/tags/xday.html</loc>
-    <lastmod>2018-01-02T10:16:20+08:00</lastmod>
+    <lastmod>2018-01-03T10:04:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://xday.cn/xday.html</loc>
-    <lastmod>2018-01-02T10:16:20+08:00</lastmod>
+    <lastmod>2018-01-03T10:04:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://xday.cn/</loc>
-    <lastmod>2018-01-02T10:16:20+08:00</lastmod>
+    <lastmod>2018-01-03T11:10:49+08:00</lastmod>
     <priority>0</priority>
   </url>
   

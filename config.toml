@@ -23,7 +23,7 @@ logFile = "log"
 # maximum number of items in the RSS feed
 rssLimit =                    15
 # Pagination
-paginate =                    10
+paginate =                    5
 paginatePath =                "page"
 staticDir =                   "static"
 # theme to use (located by default in /themes/THEMENAME/)

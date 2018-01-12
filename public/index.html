@@ -46,6 +46,48 @@
   <div class="container">
     
     <article>
+      <h2 class="subtitle is-6">January 3, 2018</h2>
+      <h1 class="title"><a href="http://xday.cn/html/chrome-wu-fa-gai-bian-button-gao-du.html">Chrome 无法改变 button 高度</a></h1>
+      <div class="content">
+        今天查看中文转拼音页面时,发下转换按钮的样式变成了默认样式了，重新再 Safari 打开，显示样式正常，怀疑是不是 Chrome 最近有改变对 css 的样式支持，Google 到高手秘籍：
+源代码：
+&lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt; &lt;meta charset=&quot;utf-8&quot;/&gt; &lt;title&gt;&lt;/title&gt; &lt;style type=&quot;text/css&quot;&gt; .set{ height: 40px; width: 90px; } &lt;/style&gt; &lt;/head&gt; &lt;body&gt; &lt;input class=&quot;set&quot; type=&quot;button&quot; value=&quot;点击设置&quot;/&gt; &lt;/body&gt; &lt;/html&gt;  解决方法一： 把 input 改为 button :
+&lt;button class=&quot;set&quot; type=&quot;button&quot; value=&quot;点击设置&quot;/&gt;&lt;/button&gt;  解决方法二: 在css中增加一个参数(input button 类型，只能用 class 来修改样式)；
+&lt;style type=&quot;text/css&quot;&gt; .set{ -webkit-appearance:button; height: 40px; width: 90px; } &lt;/style&gt;  参考链接：
+［css］button的高度无法改变
+        
+      </div>
+    </article>
+    
+    <article>
+      <h2 class="subtitle is-6">January 3, 2018</h2>
+      <h1 class="title"><a href="http://xday.cn/git-tong-shi-push-zhi-duo-ge-cang-ku.html">git 同时 push 至多个仓库</a> ::Draft</h1>
+      <div class="content">
+        今天想把个人博客同时推送至 GitHub 和个人私有 Git，当使用
+git remote add origin https://github.com/HJDev/Xday.git  添加仓库时，提示错误：
+fatal: remote origin already exists.  根据错误提示，我们可以知道，origin 仓库已经存在，所以我们需要更改仓库名称,(如:origin1):
+git remote add origin1 https://github.com/HJDev/Xday.git  然后再push 到仓库。
+git push -u origin1  终极秘籍  身为攻城狮的我们，一定不会满足与使用重复的体力来解决毫无意义的体力劳动
+ 使用一条命令同时推送至多个仓库 编辑配置文件
+vim .git/config  [remote &quot;all&quot;] url = http://git.teamleader.cn/hejun/blog.git url = https://github.com/HJDev/Xday.git  保存。
+使用命令：
+git push all  Done !
+        
+      </div>
+    </article>
+    
+    <article>
+      <h2 class="subtitle is-6">January 3, 2018</h2>
+      <h1 class="title"><a href="http://xday.cn/xday/20180103.html">2018年1月3日</a> ::Draft</h1>
+      <div class="content">
+          完美的一天，专注每一天
+ 今日任务 完成“回忆”按“天”进行归类功能 添加 iap 支付凭证本地保存功能 学习半小时 swift  今天主要学习数组和多线程  添加“Xday.cn”到 GitHub 并进行持续集成  总结：今天的任务还有一项没有完成，主要是因为没有预估好开会时间以及对 GitHub 持续集成不熟悉。对每项任务的时间预估及对任务的执行，将是我后期需要着力提高的。
+ 注：第二项任务将转移到明天执行，并优先执行  
+        
+      </div>
+    </article>
+    
+    <article>
       <h2 class="subtitle is-6">January 2, 2018</h2>
       <h1 class="title"><a href="http://xday.cn/xday/20180102.html">2018年1月2日</a></h1>
       <div class="content">

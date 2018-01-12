@@ -6,10 +6,21 @@
     <description>Recent content in Xday on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jan 2018 10:16:20 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 10:04:44 +0800</lastBuildDate>
     
 	<atom:link href="http://xday.cn/tags/xday/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018年1月3日</title>
+      <link>http://xday.cn/xday/20180103.html</link>
+      <pubDate>Wed, 03 Jan 2018 10:04:44 +0800</pubDate>
+      
+      <guid>http://xday.cn/xday/20180103.html</guid>
+      <description>  完美的一天，专注每一天
+ 今日任务 完成“回忆”按“天”进行归类功能 添加 iap 支付凭证本地保存功能 学习半小时 swift  今天主要学习数组和多线程  添加“Xday.cn”到 GitHub 并进行持续集成  总结：今天的任务还有一项没有完成，主要是因为没有预估好开会时间以及对 GitHub 持续集成不熟悉。对每项任务的时间预估及对任务的执行，将是我后期需要着力提高的。
+ 注：第二项任务将转移到明天执行，并优先执行  </description>
+    </item>
     
     <item>
       <title>2018年1月2日</title>
