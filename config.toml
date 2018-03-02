@@ -1,4 +1,4 @@
-baseURL = "http://xday.cn/"
+baseURL = "http://think.cc/"
 languageCode = "en-us"
 title = "锐意翱翔"
 author = "何军"
@@ -54,7 +54,7 @@ uglyurls = true
 
 [params]
   author = "何军"
-  keywords = ["Xday", "Xday.cn", "完美的一天"]
+  keywords = ["Think", "Think.cc", "DevThink", "完美的一天"]
   description = "完美的一天，专注每一天"
 
   [params.highlight]

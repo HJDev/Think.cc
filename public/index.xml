@@ -2,21 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>锐意翱翔</title>
-    <link>http://xday.cn/</link>
+    <link>http://think.cc/</link>
     <description>Recent content on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jan 2018 11:10:49 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2018 09:54:28 +0800</lastBuildDate>
     
-	<atom:link href="http://xday.cn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://think.cc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2018年1月17日</title>
+      <link>http://think.cc/xday/20180117.html</link>
+      <pubDate>Wed, 17 Jan 2018 09:54:28 +0800</pubDate>
+      
+      <guid>http://think.cc/xday/20180117.html</guid>
+      <description>  完美的一天，专注每一天
+ 今日任务 完成话题讨论页问答倒计时功能 话题介绍模块相关视频 活动图片分享功能(需要卫军提供接口确定怎么分享) 课程通知显示及跳转 一键设为提问需求与结果不符(需要跟宝玉和卫军确认,现在是直接设为了提问，没有重新再发一条) 话题分享加医米(话题详情页，如果是免费话题怎么进入)  </description>
+    </item>
+    
+    <item>
+      <title>2018年1月16日</title>
+      <link>http://think.cc/xday/20180116.html</link>
+      <pubDate>Tue, 16 Jan 2018 10:07:19 +0800</pubDate>
+      
+      <guid>http://think.cc/xday/20180116.html</guid>
+      <description>  完美的一天，专注每一天
+ 今日任务 校验考试宝典微信支付 回顾话题不可修改标题 添加收藏列表跳转话题支持(ps:现在话题收藏未显示在视频收藏列表) 修改文章首页搜索 UI 修改话题观看 icon ui  </description>
+    </item>
+    
+    <item>
+      <title>2018年1月12日</title>
+      <link>http://think.cc/xday/20180112.html</link>
+      <pubDate>Fri, 12 Jan 2018 13:48:43 +0800</pubDate>
+      
+      <guid>http://think.cc/xday/20180112.html</guid>
+      <description>  完美的一天，专注每一天
+ 今日任务 添加视频收费处理逻辑 校验考试宝典微信支付 修改 iOS 打赏 UI 回顾话题不可修改标题  </description>
+    </item>
+    
+    <item>
+      <title>2018年1月11日</title>
+      <link>http://think.cc/xday/20180111.html</link>
+      <pubDate>Thu, 11 Jan 2018 10:39:07 +0800</pubDate>
+      
+      <guid>http://think.cc/xday/20180111.html</guid>
+      <description>  完美的一天，专注每一天
+ 今日任务 文章外链支持跳转 活动图片分享 考试宝典新增2  </description>
+    </item>
+    
+    <item>
+      <title>2018年1月5日</title>
+      <link>http://think.cc/xday/20180105.html</link>
+      <pubDate>Fri, 05 Jan 2018 10:19:04 +0800</pubDate>
+      
+      <guid>http://think.cc/xday/20180105.html</guid>
+      <description>完美的一天，专注每一天
+ 今日任务 完成外链页面相关逻辑处理 1.5 添加阅读页面顶部搜索 1.5 研究图片分享 2 考试宝典增 2  总结:因文章详情需求需要讨论，导致考试宝典需求被延迟。以后工作时间需求尽量被提前，以保证不特定需求被加进来。</description>
+    </item>
+    
+    <item>
+      <title>20180104</title>
+      <link>http://think.cc/xday/20180104.html</link>
+      <pubDate>Thu, 04 Jan 2018 10:13:58 +0800</pubDate>
+      
+      <guid>http://think.cc/xday/20180104.html</guid>
+      <description>  完美的一天，专注每一天
+ 今日任务 添加 iap 支付凭证本地保存功能 处理话题直播横竖屏可能导致的画面横屏问题 添加“回忆”每天的图片列表及点击图片查看大图 完成外链内容及分享功能  </description>
+    </item>
+    
+    <item>
       <title>Chrome 无法改变 button 高度</title>
-      <link>http://xday.cn/html/chrome-wu-fa-gai-bian-button-gao-du.html</link>
+      <link>http://think.cc/html/chrome-wu-fa-gai-bian-button-gao-du.html</link>
       <pubDate>Wed, 03 Jan 2018 11:10:49 +0800</pubDate>
       
-      <guid>http://xday.cn/html/chrome-wu-fa-gai-bian-button-gao-du.html</guid>
+      <guid>http://think.cc/html/chrome-wu-fa-gai-bian-button-gao-du.html</guid>
       <description>今天查看中文转拼音页面时,发下转换按钮的样式变成了默认样式了，重新再 Safari 打开，显示样式正常，怀疑是不是 Chrome 最近有改变对 css 的样式支持，Google 到高手秘籍：
 源代码：
 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;/&amp;gt; &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt; &amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt; .set{ height: 40px; width: 90px; } &amp;lt;/style&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;input class=&amp;quot;set&amp;quot; type=&amp;quot;button&amp;quot; value=&amp;quot;点击设置&amp;quot;/&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  解决方法一： 把 input 改为 button :
@@ -27,10 +87,10 @@
     
     <item>
       <title>git 同时 push 至多个仓库</title>
-      <link>http://xday.cn/git-tong-shi-push-zhi-duo-ge-cang-ku.html</link>
+      <link>http://think.cc/git-tong-shi-push-zhi-duo-ge-cang-ku.html</link>
       <pubDate>Wed, 03 Jan 2018 10:31:51 +0800</pubDate>
       
-      <guid>http://xday.cn/git-tong-shi-push-zhi-duo-ge-cang-ku.html</guid>
+      <guid>http://think.cc/git-tong-shi-push-zhi-duo-ge-cang-ku.html</guid>
       <description>今天想把个人博客同时推送至 GitHub 和个人私有 Git，当使用
 git remote add origin https://github.com/HJDev/Xday.git  添加仓库时，提示错误：
 fatal: remote origin already exists.  根据错误提示，我们可以知道，origin 仓库已经存在，所以我们需要更改仓库名称,(如:origin1):
@@ -44,10 +104,10 @@ git push all  Done !</description>
     
     <item>
       <title>2018年1月3日</title>
-      <link>http://xday.cn/xday/20180103.html</link>
+      <link>http://think.cc/xday/20180103.html</link>
       <pubDate>Wed, 03 Jan 2018 10:04:44 +0800</pubDate>
       
-      <guid>http://xday.cn/xday/20180103.html</guid>
+      <guid>http://think.cc/xday/20180103.html</guid>
       <description>  完美的一天，专注每一天
  今日任务 完成“回忆”按“天”进行归类功能 添加 iap 支付凭证本地保存功能 学习半小时 swift  今天主要学习数组和多线程  添加“Xday.cn”到 GitHub 并进行持续集成  总结：今天的任务还有一项没有完成，主要是因为没有预估好开会时间以及对 GitHub 持续集成不熟悉。对每项任务的时间预估及对任务的执行，将是我后期需要着力提高的。
  注：第二项任务将转移到明天执行，并优先执行  </description>
@@ -55,20 +115,20 @@ git push all  Done !</description>
     
     <item>
       <title>2018年1月2日</title>
-      <link>http://xday.cn/xday/20180102.html</link>
+      <link>http://think.cc/xday/20180102.html</link>
       <pubDate>Tue, 02 Jan 2018 10:16:20 +0800</pubDate>
       
-      <guid>http://xday.cn/xday/20180102.html</guid>
+      <guid>http://think.cc/xday/20180102.html</guid>
       <description>完美的一天，专注每一天
  今日任务 完成 leancloud 模块的移除 添加“回忆” APP 的数据模型展示 封装获取相册图片的工具类 将“Xday.cn” 部署到服务器 为“Xday.cn” 添加评论模块  因为没有找到使用 GitHub 评论的那个插件，导致无法立即集成，该功能将会推迟进行完成。(不能作为工作日的正常任务)  研究配置 web 服务器密码访问  Nginx配置实用密码访问网站的方法  学习半小时 swift 语言  总结：今天的任务基本完成，但时间把控还是不怎么好，对时间的把控将是我以后的一个重点提升的能力</description>
     </item>
     
     <item>
       <title>iOS 获取图片的原始格式</title>
-      <link>http://xday.cn/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html</link>
+      <link>http://think.cc/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html</link>
       <pubDate>Thu, 28 Sep 2017 17:16:29 +0800</pubDate>
       
-      <guid>http://xday.cn/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html</guid>
+      <guid>http://think.cc/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html</guid>
       <description>&lt;ul class=&#34;task-list&#34;&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; show list&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; next list&lt;/li&gt;
@@ -83,10 +143,10 @@ git push all  Done !</description>
     
     <item>
       <title>Ubuntu 16.0.4 安装 Swift 后提示 error while loading shared libraries: libpython2.7.so.1.0</title>
-      <link>http://xday.cn/ubuntu-16-0-4-an-zhuang-swift-hou-ti-shi-error-while-loading-shared-libraries-libpython2-7-so-1-0.html</link>
+      <link>http://think.cc/ubuntu-16-0-4-an-zhuang-swift-hou-ti-shi-error-while-loading-shared-libraries-libpython2-7-so-1-0.html</link>
       <pubDate>Thu, 28 Sep 2017 16:58:49 +0800</pubDate>
       
-      <guid>http://xday.cn/ubuntu-16-0-4-an-zhuang-swift-hou-ti-shi-error-while-loading-shared-libraries-libpython2-7-so-1-0.html</guid>
+      <guid>http://think.cc/ubuntu-16-0-4-an-zhuang-swift-hou-ti-shi-error-while-loading-shared-libraries-libpython2-7-so-1-0.html</guid>
       <description>Ubuntu 16.0.4 安装 Swift 后提示: error while loading shared libraries: libpython2.7.so.1.0:
 swift/usr/bin/lldb: error while loading shared libraries: libpython2.7.so.1.0: cannot open shared object file: No such file or directory  这个问题会在 Ubuntu 14.04 和 Ubuntu 16.04 上出现，是 swift 的一个依赖问题，只需要安装 libpython2.7-dev 就可以解决问题。代码如下
 sudo apt-get install libpython2.7-dev  Done ! Link : Incomplete install instructions for Ubuntu 原文链接: Ubuntu 16.0.4 安装 Swift 后提示 error while loading shared libraries: libpython2.7.so.1.0</description>
@@ -94,19 +154,19 @@ sudo apt-get install libpython2.7-dev  Done ! Link : Incomplete install instruct
     
     <item>
       <title>时间观念</title>
-      <link>http://xday.cn/times/%E6%97%B6%E9%97%B4%E8%A7%82%E5%BF%B5.html</link>
+      <link>http://think.cc/times/%E6%97%B6%E9%97%B4%E8%A7%82%E5%BF%B5.html</link>
       <pubDate>Fri, 08 Sep 2017 14:09:52 +0800</pubDate>
       
-      <guid>http://xday.cn/times/%E6%97%B6%E9%97%B4%E8%A7%82%E5%BF%B5.html</guid>
+      <guid>http://think.cc/times/%E6%97%B6%E9%97%B4%E8%A7%82%E5%BF%B5.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://xday.cn/about.html</link>
+      <link>http://think.cc/about.html</link>
       <pubDate>Fri, 08 Sep 2017 10:15:30 +0800</pubDate>
       
-      <guid>http://xday.cn/about.html</guid>
+      <guid>http://think.cc/about.html</guid>
       <description>这是一篇关于我的文章</description>
     </item>
     

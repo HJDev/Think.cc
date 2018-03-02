@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Htmls on 锐意翱翔</title>
-    <link>http://xday.cn/html.html</link>
+    <link>http://think.cc/html.html</link>
     <description>Recent content in Htmls on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jan 2018 11:10:49 +0800</lastBuildDate>
     
-	<atom:link href="http://xday.cn/html/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://think.cc/html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chrome 无法改变 button 高度</title>
-      <link>http://xday.cn/html/chrome-wu-fa-gai-bian-button-gao-du.html</link>
+      <link>http://think.cc/html/chrome-wu-fa-gai-bian-button-gao-du.html</link>
       <pubDate>Wed, 03 Jan 2018 11:10:49 +0800</pubDate>
       
-      <guid>http://xday.cn/html/chrome-wu-fa-gai-bian-button-gao-du.html</guid>
+      <guid>http://think.cc/html/chrome-wu-fa-gai-bian-button-gao-du.html</guid>
       <description>今天查看中文转拼音页面时,发下转换按钮的样式变成了默认样式了，重新再 Safari 打开，显示样式正常，怀疑是不是 Chrome 最近有改变对 css 的样式支持，Google 到高手秘籍：
 源代码：
 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;/&amp;gt; &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt; &amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt; .set{ height: 40px; width: 90px; } &amp;lt;/style&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;input class=&amp;quot;set&amp;quot; type=&amp;quot;button&amp;quot; value=&amp;quot;点击设置&amp;quot;/&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  解决方法一： 把 input 改为 button :

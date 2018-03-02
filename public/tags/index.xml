@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 锐意翱翔</title>
-    <link>http://xday.cn/tags.html</link>
+    <link>http://think.cc/tags.html</link>
     <description>Recent content in Tags on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jan 2018 10:31:51 +0800</lastBuildDate>
     
-	<atom:link href="http://xday.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://think.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git</title>
-      <link>http://xday.cn/tags/git.html</link>
+      <link>http://think.cc/tags/git.html</link>
       <pubDate>Wed, 03 Jan 2018 10:31:51 +0800</pubDate>
       
-      <guid>http://xday.cn/tags/git.html</guid>
+      <guid>http://think.cc/tags/git.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://xday.cn/tags/html.html</link>
+      <link>http://think.cc/tags/html.html</link>
       <pubDate>Wed, 03 Jan 2018 11:10:49 +0800</pubDate>
       
-      <guid>http://xday.cn/tags/html.html</guid>
+      <guid>http://think.cc/tags/html.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ios</title>
-      <link>http://xday.cn/tags/ios.html</link>
+      <link>http://think.cc/tags/ios.html</link>
       <pubDate>Thu, 28 Sep 2017 17:16:29 +0800</pubDate>
       
-      <guid>http://xday.cn/tags/ios.html</guid>
+      <guid>http://think.cc/tags/ios.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xday</title>
-      <link>http://xday.cn/tags/xday.html</link>
-      <pubDate>Wed, 03 Jan 2018 10:04:44 +0800</pubDate>
+      <link>http://think.cc/tags/xday.html</link>
+      <pubDate>Wed, 17 Jan 2018 09:54:28 +0800</pubDate>
       
-      <guid>http://xday.cn/tags/xday.html</guid>
+      <guid>http://think.cc/tags/xday.html</guid>
       <description></description>
     </item>
     
