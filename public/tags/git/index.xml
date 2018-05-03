@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on 锐意翱翔</title>
-    <link>http://think.cc/tags/git.html</link>
+    <link>https://think.cc/tags/git.html</link>
     <description>Recent content in Git on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jan 2018 10:31:51 +0800</lastBuildDate>
     
-	<atom:link href="http://think.cc/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://think.cc/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>git 同时 push 至多个仓库</title>
-      <link>http://think.cc/git-tong-shi-push-zhi-duo-ge-cang-ku.html</link>
+      <link>https://think.cc/git-tong-shi-push-zhi-duo-ge-cang-ku.html</link>
       <pubDate>Wed, 03 Jan 2018 10:31:51 +0800</pubDate>
       
-      <guid>http://think.cc/git-tong-shi-push-zhi-duo-ge-cang-ku.html</guid>
+      <guid>https://think.cc/git-tong-shi-push-zhi-duo-ge-cang-ku.html</guid>
       <description>今天想把个人博客同时推送至 GitHub 和个人私有 Git，当使用
 git remote add origin https://github.com/HJDev/Xday.git  添加仓库时，提示错误：
 fatal: remote origin already exists.  根据错误提示，我们可以知道，origin 仓库已经存在，所以我们需要更改仓库名称,(如:origin1):

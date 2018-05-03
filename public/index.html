@@ -3,8 +3,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>锐意翱翔</title>
-<link rel="stylesheet" href="http://think.cc//css/style.css">
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://think.cc/css/style.css">
+<link rel="stylesheet" href="https://think.cc/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/github.min.css">
 
@@ -13,7 +13,7 @@
   <div class="container">
     <nav class="nav">
       <div class="nav-left">
-        <a class="nav-item" href="http://think.cc/"><h1 class="title is-4">锐意翱翔</h1></a>
+        <a class="nav-item" href="https://think.cc/"><h1 class="title is-4">锐意翱翔</h1></a>
       </div>
       <div class="nav-right">
         <nav class="nav-item level is-mobile">
@@ -24,13 +24,13 @@
             </span>
           </a>
           
-          <a class="level-item" href="https://weibo.com/HeJunBiz">
+          <a class="level-item" href="https://weibo.com/DevThink">
             <span class="icon">
               <i class="fa fa-weibo"></i>
             </span>
           </a>
           
-          <a class="level-item" href="http://think.cc/index.xml">
+          <a class="level-item" href="https://think.cc/index.xml">
             <span class="icon">
               <i class="fa fa-rss"></i>
             </span>
@@ -46,51 +46,71 @@
   <div class="container">
     
     <article>
-      <h2 class="subtitle is-6">January 17, 2018</h2>
-      <h1 class="title"><a href="http://think.cc/xday/20180117.html">2018年1月17日</a> ::Draft</h1>
+      <h2 class="subtitle is-6">January 3, 2018</h2>
+      <h1 class="title"><a href="https://think.cc/html/chrome-wu-fa-gai-bian-button-gao-du.html">Chrome 无法改变 button 高度</a></h1>
       <div class="content">
-          完美的一天，专注每一天
- 今日任务 完成话题讨论页问答倒计时功能 话题介绍模块相关视频 活动图片分享功能(需要卫军提供接口确定怎么分享) 课程通知显示及跳转 一键设为提问需求与结果不符(需要跟宝玉和卫军确认,现在是直接设为了提问，没有重新再发一条) 话题分享加医米(话题详情页，如果是免费话题怎么进入)  
+        今天查看中文转拼音页面时,发下转换按钮的样式变成了默认样式了，重新再 Safari 打开，显示样式正常，怀疑是不是 Chrome 最近有改变对 css 的样式支持，Google 到高手秘籍：
+源代码：
+&lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt; &lt;meta charset=&quot;utf-8&quot;/&gt; &lt;title&gt;&lt;/title&gt; &lt;style type=&quot;text/css&quot;&gt; .set{ height: 40px; width: 90px; } &lt;/style&gt; &lt;/head&gt; &lt;body&gt; &lt;input class=&quot;set&quot; type=&quot;button&quot; value=&quot;点击设置&quot;/&gt; &lt;/body&gt; &lt;/html&gt;  解决方法一： 把 input 改为 button :
+&lt;button class=&quot;set&quot; type=&quot;button&quot; value=&quot;点击设置&quot;/&gt;&lt;/button&gt;  解决方法二: 在css中增加一个参数(input button 类型，只能用 class 来修改样式)；
+&lt;style type=&quot;text/css&quot;&gt; .set{ -webkit-appearance:button; height: 40px; width: 90px; } &lt;/style&gt;  参考链接：
+［css］button的高度无法改变
         
       </div>
     </article>
     
     <article>
-      <h2 class="subtitle is-6">January 16, 2018</h2>
-      <h1 class="title"><a href="http://think.cc/xday/20180116.html">2018年1月16日</a> ::Draft</h1>
+      <h2 class="subtitle is-6">January 3, 2018</h2>
+      <h1 class="title"><a href="https://think.cc/git-tong-shi-push-zhi-duo-ge-cang-ku.html">git 同时 push 至多个仓库</a> ::Draft</h1>
       <div class="content">
-          完美的一天，专注每一天
- 今日任务 校验考试宝典微信支付 回顾话题不可修改标题 添加收藏列表跳转话题支持(ps:现在话题收藏未显示在视频收藏列表) 修改文章首页搜索 UI 修改话题观看 icon ui  
+        今天想把个人博客同时推送至 GitHub 和个人私有 Git，当使用
+git remote add origin https://github.com/HJDev/Xday.git  添加仓库时，提示错误：
+fatal: remote origin already exists.  根据错误提示，我们可以知道，origin 仓库已经存在，所以我们需要更改仓库名称,(如:origin1):
+git remote add origin1 https://github.com/HJDev/Xday.git  然后再push 到仓库。
+git push -u origin1  终极秘籍  身为攻城狮的我们，一定不会满足与使用重复的体力来解决毫无意义的体力劳动
+ 使用一条命令同时推送至多个仓库 编辑配置文件
+vim .git/config  [remote &quot;all&quot;] url = http://git.teamleader.cn/hejun/blog.git url = https://github.com/HJDev/Xday.git  保存。
+使用命令：
+git push all  Done !
         
       </div>
     </article>
     
     <article>
-      <h2 class="subtitle is-6">January 12, 2018</h2>
-      <h1 class="title"><a href="http://think.cc/xday/20180112.html">2018年1月12日</a></h1>
+      <h2 class="subtitle is-6">September 28, 2017</h2>
+      <h1 class="title"><a href="https://think.cc/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html">iOS 获取图片的原始格式</a></h1>
       <div class="content">
-          完美的一天，专注每一天
- 今日任务 添加视频收费处理逻辑 校验考试宝典微信支付 修改 iOS 打赏 UI 回顾话题不可修改标题  
+        show list next list  今天测试给过来一张图片(后缀是.png)说无法在 APP 的 WebView 里面无法显示，而且在 Safari 里也是无法打开的，但在谷歌浏览器上是可以正常显示。起初是知道 WebP 格式的图片苹果是不支持显示的，但这个图片的后缀是.png 的，难道还有 png 的图片是苹果不支持的么？
+根据个人经验，是没有听说苹果不支持 png 格式的图片的，这时想到以前自己更改 JPG 图片后缀的事情，是不是这张图片也是经过别人手动改后缀的呢，带着这个疑问，我决定手动判断这张图片的原始格式。
+
+
+        
+        ...<a class="button is-link" href="https://think.cc/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html" style="height:28px">
+          Read more
+          <span class="icon is-small">
+            <i class="fa fa-angle-double-right"></i>
+          </span>
+        </a>
         
       </div>
     </article>
     
     <article>
-      <h2 class="subtitle is-6">January 11, 2018</h2>
-      <h1 class="title"><a href="http://think.cc/xday/20180111.html">2018年1月11日</a> ::Draft</h1>
+      <h2 class="subtitle is-6">September 28, 2017</h2>
+      <h1 class="title"><a href="https://think.cc/ubuntu-16-0-4-an-zhuang-swift-hou-ti-shi-error-while-loading-shared-libraries-libpython2-7-so-1-0.html">Ubuntu 16.0.4 安装 Swift 后提示 error while loading shared libraries: libpython2.7.so.1.0</a></h1>
       <div class="content">
-          完美的一天，专注每一天
- 今日任务 文章外链支持跳转 活动图片分享 考试宝典新增2  
+        Ubuntu 16.0.4 安装 Swift 后提示: error while loading shared libraries: libpython2.7.so.1.0:
+swift/usr/bin/lldb: error while loading shared libraries: libpython2.7.so.1.0: cannot open shared object file: No such file or directory  这个问题会在 Ubuntu 14.04 和 Ubuntu 16.04 上出现，是 swift 的一个依赖问题，只需要安装 libpython2.7-dev 就可以解决问题。代码如下
+sudo apt-get install libpython2.7-dev  Done ! Link : Incomplete install instructions for Ubuntu 原文链接: Ubuntu 16.0.4 安装 Swift 后提示 error while loading shared libraries: libpython2.7.so.1.0
         
       </div>
     </article>
     
     <article>
-      <h2 class="subtitle is-6">January 5, 2018</h2>
-      <h1 class="title"><a href="http://think.cc/xday/20180105.html">2018年1月5日</a></h1>
+      <h2 class="subtitle is-6">September 8, 2017</h2>
+      <h1 class="title"><a href="https://think.cc/times/%E6%97%B6%E9%97%B4%E8%A7%82%E5%BF%B5.html">时间观念</a> ::Draft</h1>
       <div class="content">
-        完美的一天，专注每一天
- 今日任务 完成外链页面相关逻辑处理 1.5 添加阅读页面顶部搜索 1.5 研究图片分享 2 考试宝典增 2  总结:因文章详情需求需要讨论，导致考试宝典需求被延迟。以后工作时间需求尽量被提前，以保证不特定需求被加进来。
+        
         
       </div>
     </article>
@@ -115,7 +135,7 @@
       <div class="level-right is-marginless">
         <div class="level-item">
           
-          <a class="button" href="http://think.cc/page/2.html">
+          <a class="button" href="https://think.cc/page/2.html">
             Older
             <span class="icon is-small is-marginless">
               <i class="fa fa-angle-right"></i>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios on 锐意翱翔</title>
-    <link>http://think.cc/tags/ios.html</link>
+    <link>https://think.cc/tags/ios.html</link>
     <description>Recent content in Ios on 锐意翱翔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Sep 2017 17:16:29 +0800</lastBuildDate>
     
-	<atom:link href="http://think.cc/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://think.cc/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>iOS 获取图片的原始格式</title>
-      <link>http://think.cc/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html</link>
+      <link>https://think.cc/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html</link>
       <pubDate>Thu, 28 Sep 2017 17:16:29 +0800</pubDate>
       
-      <guid>http://think.cc/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html</guid>
+      <guid>https://think.cc/ios-huo-qu-tu-pian-de-yuan-shi-ge-shi.html</guid>
       <description>&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; show list&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; next list&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; show list&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; next list&lt;/label&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;今天测试给过来一张图片(后缀是.png)说无法在 APP 的 WebView 里面无法显示，而且在 Safari 里也是无法打开的，但在谷歌浏览器上是可以正常显示。起初是知道 &lt;a href=&#34;https://zh.wikipedia.org/wiki/WebP&#34;&gt;WebP&lt;/a&gt; 格式的图片苹果是不支持显示的，但这个图片的后缀是.png 的，难道还有 png 的图片是苹果不支持的么？&lt;/p&gt;

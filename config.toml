@@ -1,4 +1,4 @@
-baseURL = "http://think.cc/"
+baseURL = "https://think.cc/"
 languageCode = "en-us"
 title = "锐意翱翔"
 author = "何军"
@@ -54,7 +54,7 @@ uglyurls = true
 
 [params]
   author = "何军"
-  keywords = ["Think", "Think.cc", "DevThink", "完美的一天"]
+  keywords = ["Think", "Think.cc", "DevThink", "goThink", "完美的一天"]
   description = "完美的一天，专注每一天"
 
   [params.highlight]
@@ -66,7 +66,7 @@ url = "https://github.com/HJDev"
 fa_icon = "fa-github"
 
 [[params.social]]
-url = "https://weibo.com/HeJunBiz"
+url = "https://weibo.com/DevThink"
 fa_icon = "fa-weibo"
 
 [[params.social]]
