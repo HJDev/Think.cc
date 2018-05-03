@@ -5,6 +5,9 @@ install:
     - sudo dpkg -i hugo*.deb
     - pip install Pygments
 
+before_script:
+  rm -rf public
+
 script:
   - hugo # This commands builds your website on travis
 
